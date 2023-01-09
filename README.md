@@ -30,6 +30,8 @@ Train a Bi-LSTM model to predict the birth from the historic data.
 
 ##### Models:
 
+Bi-LSTM model:
+
 ![Screenshot 2023-01-08 at 8 54 01 PM](https://user-images.githubusercontent.com/90480106/211234173-423ec1b9-6552-41e3-9b63-568245730683.png)
 
 ##### Results:
