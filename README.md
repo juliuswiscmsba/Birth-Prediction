@@ -2,7 +2,7 @@
 
 ##### Introduction:
 
-Giving birth is important to each country. In Taiwan, people are less and less willing to give birth every year, and the Taiwanese government would like to solve this issue. By analyzing and visualizing the data, we can find several interesting findings about birth, which may help the government to design its birth policies. Moreover, the birth prediction model can help them to check whether their policies work (A/B testing).
+Giving birth is important to each country. In Taiwan, people are less and less willing to give birth every year, and the Taiwanese government would like to solve this issue. By analyzing and visualizing the data, we can find several interesting findings about birth, which may help the government to design its birth policies. Moreover, the birth prediction model can help them to check whether their policies work (event study).
 
 ##### Dataset:
 
